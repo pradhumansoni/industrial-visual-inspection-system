@@ -1,0 +1,48 @@
+# ==========================================
+# Industrial Visual Inspection System
+# Core Dependencies
+# ==========================================
+
+# -------------------------
+# Deep Learning
+# -------------------------
+torch
+torchvision
+torchaudio
+timm
+
+# -------------------------
+# Computer Vision
+# -------------------------
+opencv-python
+albumentations
+Pillow
+
+# -------------------------
+# Data Science
+# -------------------------
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+
+# -------------------------
+# Configuration
+# -------------------------
+PyYAML
+
+# -------------------------
+# Utilities
+# -------------------------
+tqdm
+
+# -------------------------
+# Logging & Visualization
+# -------------------------
+tensorboard
+
+# -------------------------
+# Testing
+# -------------------------
+pytest
